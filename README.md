@@ -21,12 +21,9 @@ Each day unlocks two puzzles, and solving them earns you **stars** ⭐. Can you 
 ## 📂 **Repository Structure**
 This repo is organized by day, with solutions for each puzzle:
 
-├── 🗂 day1/ │ ├── input.txt # Puzzle input │ ├── day1.py # Python solution ├── 🗂 day2/ │ ├── input.txt │ ├── day2.py │ └── ...
-
-
-Each folder contains:
+Each folder `/day{num}` contains:
 - **`input.txt`**: The puzzle's unique input.
-- **`solution.py`**: My Python solution for the day.
+- **`day{num}.py`**: My Python solution for the day.
 - **`README.md`**: Detailed write-ups for each solution (with pseudocode, explanations, and alternative approaches).
 
 ---
@@ -37,6 +34,7 @@ Each folder contains:
   - `numpy`: For heavy data processing.
   - `matplotlib`: To visualize any graphs or outputs.
   - `pytest`: To ensure solutions are correct with test cases.
+  - `qiskit`: For quantum implementations
 - **Editor**: Cursor with a cup of hot chocolate ☕!
 
 ---
