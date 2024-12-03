@@ -1,6 +1,5 @@
 # 🎄 Advent of Code 2024 🎅
 
-![Advent of Code Banner](https://user-images.githubusercontent.com/1234567/your-image.png)  
 **_"25 days, 50 puzzles, infinite learning."_**
 
 Welcome to my **Advent of Code 2024** repository! This is where I'll be solving the festive coding challenges crafted by [Eric Wastl](https://twitter.com/ericwastl). It's a journey of logic, creativity, and sometimes frustration—but always fun! 🎁✨
